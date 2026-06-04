@@ -33,3 +33,11 @@
 
 ## 4. Diseños de inspiración
 - Se toma como inspiración los diseños presentes en la carpeta img junto al DESIGN markdown.
+
+## 5. Sobre Wanderlust Labs (Visión del Producto)
+
+- El Negocio: Wanderlust Labs es una startup de travel-tech dedicada a construir una plataforma moderna para descubrir y guardar experiencias únicas alrededor del mundo (desde tours gastronómicos en Bangkok hasta rutas de vela por el Adriático).
+
+- Objetivo del MVP: Desarrollar el "Explorador de Experiencias", una aplicación web multipágina rápida e intuitiva que permita a los usuarios buscar, filtrar y visualizar un catálogo de actividades.
+
+- Enfoque de Usuario: La experiencia debe ser fluida y compartible. Los usuarios deben poder enviarse enlaces con filtros ya aplicados (ej. actividades de "Aventura" en "Croacia") y guardar sus experiencias favoritas de forma sencilla mientras navegan.
